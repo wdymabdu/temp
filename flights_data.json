@@ -1,0 +1,202 @@
+[
+  {
+    "flight_id": "FL1000",
+    "route": {
+      "origin": "LHE",
+      "destination": "JED"
+    },
+    "airline": "PIA",
+    "departure_date": "2026-04-11",
+    "base_price": 541,
+    "price_history": [
+      {
+        "date": "2025-10-13",
+        "price": 615,
+        "currency": "USD"
+      }
+    ],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1001",
+    "route": {
+      "origin": "LHE",
+      "destination": "DXB"
+    },
+    "airline": "Emirates",
+    "departure_date": "2026-07-04",
+    "base_price": 940,
+    "price_history": [],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1002",
+    "route": {
+      "origin": "LHE",
+      "destination": "IST"
+    },
+    "airline": "Turkish Airlines",
+    "departure_date": "2026-03-02",
+    "base_price": 839,
+    "price_history": [
+      {
+        "date": "2025-09-03",
+        "price": 959,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-09-18",
+        "price": 800,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-10-03",
+        "price": 982,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-10-18",
+        "price": 873,
+        "currency": "USD"
+      }
+    ],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1003",
+    "route": {
+      "origin": "KHI",
+      "destination": "LHR"
+    },
+    "airline": "British Airways",
+    "departure_date": "2026-02-23",
+    "base_price": 1489,
+    "price_history": [
+      {
+        "date": "2025-08-27",
+        "price": 1503,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-09-11",
+        "price": 1679,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-09-26",
+        "price": 1560,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-10-11",
+        "price": 1822,
+        "currency": "USD"
+      }
+    ],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1004",
+    "route": {
+      "origin": "ISB",
+      "destination": "BKK"
+    },
+    "airline": "Thai Airways",
+    "departure_date": "2026-05-07",
+    "base_price": 1292,
+    "price_history": [],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1005",
+    "route": {
+      "origin": "LHE",
+      "destination": "SIN"
+    },
+    "airline": "Singapore Airlines",
+    "departure_date": "2026-05-01",
+    "base_price": 1140,
+    "price_history": [],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1006",
+    "route": {
+      "origin": "KHI",
+      "destination": "JFK"
+    },
+    "airline": "Qatar Airways",
+    "departure_date": "2026-06-03",
+    "base_price": 795,
+    "price_history": [],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1007",
+    "route": {
+      "origin": "ISB",
+      "destination": "YYZ"
+    },
+    "airline": "Air Canada",
+    "departure_date": "2026-06-16",
+    "base_price": 546,
+    "price_history": [],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1008",
+    "route": {
+      "origin": "LHE",
+      "destination": "KUL"
+    },
+    "airline": "Malaysia Airlines",
+    "departure_date": "2026-03-08",
+    "base_price": 525,
+    "price_history": [
+      {
+        "date": "2025-09-09",
+        "price": 583,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-09-24",
+        "price": 590,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-10-09",
+        "price": 565,
+        "currency": "USD"
+      }
+    ],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  },
+  {
+    "flight_id": "FL1009",
+    "route": {
+      "origin": "KHI",
+      "destination": "SYD"
+    },
+    "airline": "Etihad",
+    "departure_date": "2026-04-10",
+    "base_price": 1375,
+    "price_history": [
+      {
+        "date": "2025-10-12",
+        "price": 1477,
+        "currency": "USD"
+      }
+    ],
+    "tracking_interval_days": 15,
+    "created_at": "2025-10-22 22:44:30"
+  }
+]
